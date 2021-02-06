@@ -11,40 +11,36 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Phoenix
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: j.b.'s GitHub Blog                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: a journey through data science   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  My personal GitHub blog that chronicles my journey through data science
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://jordieb.github.io'
 
-author: your_full_name                  # change to your full name
+author: Jordie Belle                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: JordieB             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: jordie_belle            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Jordie Belle                  # it will shows as the copyright owner in Footer
+  email: jordie.r.belle@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://twitter.com/jordie_belle      # change to your twitter homepage
+    - https://github.com/JordieB       # change to your github homepage
+    - https://www.linkedin.com/in/jordie-bell%C3%A9-17a9a091/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -71,7 +67,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
